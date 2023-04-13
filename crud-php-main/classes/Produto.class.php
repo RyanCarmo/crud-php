@@ -1,4 +1,4 @@
-<php
+<?php
 class produto{
     protected $id;
     protected $categoria_id;
